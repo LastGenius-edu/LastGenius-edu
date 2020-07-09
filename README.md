@@ -2,7 +2,7 @@
 - :books: I'm also currently studying at CS@UCU :computer:
 - 🌱 I’m currently learning asynchronous programming and low-level stuff :bulb:
 - 👯 I’m looking to collaborate on any interesting projects, hit me up
-- 🤔 I’m looking for help with Python, C, C# stuff
+- 🤔 I’m looking to help with Python, C, C# stuff
 - 💬 Ask me about anything, I will try to help
 - 📫 How to reach me: :airplane: [Telegram](https://t.me/first_dumbass), :email: <as.andreysultanov@gmail.com>
 - 😄 Pronouns: He/Him
