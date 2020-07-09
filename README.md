@@ -4,6 +4,6 @@
 - 👯 I’m looking to collaborate on any interesting projects, hit me up
 - 🤔 I’m looking for help with Python, C, C# stuff
 - 💬 Ask me about anything, I will try to help
-- 📫 How to reach me: :airplane: [Telegram](https://t.me/first_dumbass), :email: [E-mail](as.andreysultanov@gmail.com)
+- 📫 How to reach me: :airplane: [Telegram](https://t.me/first_dumbass), :email: <as.andreysultanov@gmail.com>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I know nothing and I am not Jon
