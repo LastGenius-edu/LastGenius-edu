@@ -6,3 +6,5 @@
 - 📫 How to reach me: :airplane: [Telegram](https://t.me/first_dumbass), :email: <as.andreysultanov@gmail.com>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I know nothing and I am not Jon
+
+![Me Coding](coding.gif)
