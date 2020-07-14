@@ -7,4 +7,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I know nothing and I am not Jon
 
-![Me Coding](coding.gif)
+![Me Coding](https://github.com/LastGenius-edu/LastGenius-edu/blob/master/coding.gif)
